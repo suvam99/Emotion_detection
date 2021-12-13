@@ -1,0 +1,656 @@
+'cheerful': 'happy',
+ 'contented': 'happy',
+ 'delighted': 'happy',
+ 'ecstatic': 'happy',
+ 'elated': 'happy',
+ 'glad': 'happy',
+ 'joyful': 'happy',
+ 'joyous': 'happy',
+ 'jubilant': 'happy',
+ 'lively': 'happy',
+ 'merry': 'happy',
+ 'overjoyed': 'happy',
+ 'peaceful': 'happy',
+ 'pleasant': 'happy',
+ 'pleased': 'happy',
+ 'satisfied': 'happy',
+ 'thrilled': 'happy',
+ 'upbeat: 'happy',
+ 'blessed': 'happy',
+ 'blest': 'happy',
+ 'blissful': 'happy',
+ 'blithe': 'happy',
+ 'captivated': 'happy',
+ 'chipper': 'happy',
+ 'chirpy': 'happy',
+ 'content': 'happy',
+ 'convivial': 'happy',
+ 'exultant': 'happy',
+ 'flying high': 'happy',
+ 'gleeful': 'happy',
+ 'gratified': 'happy',
+ 'intoxicated': 'happy',
+ 'jolly': 'happy',
+ 'laughing': 'happy',
+ 'light': 'happy',
+ 'mirthful': 'happy',
+ 'peppy': 'happy',
+ 'perky': 'happy',
+ 'playful': 'happy',
+ 'sparkling': 'happy',
+ 'sunny': 'happy',
+ 'tickled': 'happy',
+ 'tickled pink': 'happy',
+ 'up': 'happy',
+ 'laughter': 'happy',
+ 'happiness': 'happy',
+ 'love': 'happy',
+ 'happy': 'happy',
+ 'laughed': 'happy',
+ 'laugh': 'happy',
+ 'laughing': 'happy',
+ 'excellent': 'happy',
+ 'laughs': 'happy',
+ 'joy': 'happy',
+ 'successful': 'happy',
+ 'win': 'happy',
+ 'rainbow': 'happy',
+ 'smile': 'happy',
+ 'won': 'happy',
+ 'pleasure': 'happy',
+ 'smiled': 'happy',
+ 'rainbows': 'happy',
+ 'winning': 'happy',
+ 'celebration': 'happy',
+ 'enjoyed': 'happy',
+ 'healthy': 'happy',
+ 'music': 'happy',
+ 'celebrating': 'happy',
+ 'congratulations': 'happy',
+ 'weekend': 'happy',
+ 'celebrate': 'happy',
+ 'comedy': 'happy',
+ 'jokes': 'happy',
+ 'rich': 'happy',
+ 'victory': 'happy',
+ 'christmas': 'happy',
+ 'free': 'happy',
+ 'friendship': 'happy',
+ 'fun': 'happy',
+ 'holidays': 'happy',
+ 'loved': 'happy',
+ 'loves': 'happy',
+ 'loving': 'happy',
+ 'beach': 'happy',
+ 'hahaha': 'happy',
+ 'kissing': 'happy',
+ 'sunshine': 'happy',
+ 'beautiful': 'happy',
+ 'delicious': 'happy',
+ 'friends': 'happy',
+ 'funny': 'happy',
+ 'outstandin': 'happy',
+ 'paradise': 'happy',
+ 'sweetest': 'happy',
+ 'vacation': 'happy',
+ 'butterflies': 'happy',
+ 'freedom': 'happy',
+ 'flower': 'happy',
+ 'great': 'happy',
+ 'sunlight': 'happy',
+ 'sweetheart': 'happy',
+ 'sweetness': 'happy',
+ 'award': 'happy',
+ 'chocolate': 'happy',
+ 'hahahaha': 'happy',
+ 'heaven': 'happy',
+ 'peace': 'happy',
+ 'splendid': 'happy',
+ 'success': 'happy',
+ 'enjoying': 'happy',
+ 'kissed': 'happy',
+ 'attraction': 'happy',
+ 'celebrated': 'happy',
+ 'hero': 'happy',
+ 'hugs': 'happy',
+ 'positive': 'happy',
+ 'sun': 'happy',
+ 'birthday': 'happy',
+ 'blessed': 'happy',
+ 'fantastic': 'happy',
+ 'winner': 'happy',
+ 'delight': 'happy',
+ 'beauty': 'happy',
+ 'butterfly': 'happy',
+ 'entertainmen': 'happy',
+ 'funniest': 'happy',
+ 'honesty': 'happy',
+ 'sky': 'happy',
+ 'smiles': 'happy',
+ 'succeed': 'happy',
+ 'wonderful': 'happy',
+ 'glorious': 'happy',
+ 'kisses': 'happy',
+ 'promotion': 'happy',
+ 'family': 'happy',
+ 'gift': 'happy',
+ 'humor': 'happy',
+ 'romantic': 'happy',
+ 'cupcakes': 'happy',
+ 'festival': 'happy',
+ 'hahahahaha': 'happy',
+ 'honour': 'happy',
+ 'relax': 'happy',
+ 'weekends': 'happy',
+ 'aggrieved': 'sad',
+ 'appalling: 'sad',
+ 'bad: 'sad',
+ 'bitter: 'sad',
+ 'bleak: 'sad',
+ 'cheerless: 'sad',
+ 'crestfallen: 'sad',
+ 'cruel: 'sad',
+ 'dark: 'sad',
+ 'dejected: 'sad',
+ 'deplorable: 'sad',
+ 'depressed: 'sad',
+ 'depressing: 'sad',
+ 'desolate: 'sad',
+ 'despondent: 'sad',
+ 'difficult: 'sad',
+ 'dire: 'sad',
+ 'disastrous: 'sad',
+ 'disconsolate: 'sad',
+ 'disheartened: 'sad',
+ 'disheartening: 'sad',
+ 'dismal: 'sad',
+ 'dispirited: 'sad',
+ 'dispiriting: 'sad',
+ 'distressed: 'sad',
+ 'distressing: 'sad',
+ 'disturbing: 'sad',
+ 'doleful: 'sad',
+ 'dolorous: 'sad',
+ 'down: 'sad',
+ 'downcast: 'sad',
+ 'downhearted: 'sad',
+ 'dreary: 'sad',
+ 'forlorn: 'sad',
+ 'funereal: 'sad',
+ 'gloomy: 'sad',
+ 'glum: 'sad',
+ 'grave: 'sad',
+ 'grieved: 'sad',
+ 'grievous: 'sad',
+ 'grim: 'sad',
+ 'heartbreaking: 'sad',
+ 'heartbroken: 'sad',
+ 'heartsick: 'sad',
+ 'inconsolable: 'sad',
+ 'joyless: 'sad',
+ 'lachrymose: 'sad',
+ 'lamentable: 'sad',
+ 'leaden: 'sad',
+ 'low: 'sad',
+ 'low-spirited: 'sad',
+ 'lugubrious: 'sad',
+ 'melancholic: 'sad',
+ 'melancholy: 'sad',
+ 'miserable: 'sad',
+ 'moody: 'sad',
+ 'morbid: 'sad',
+ 'morose: 'sad',
+ 'mournful: 'sad',
+ 'moving: 'sad',
+ 'nasty: 'sad',
+ 'oppressive: 'sad',
+ 'painful: 'sad',
+ 'pathetic: 'sad',
+ 'pessimistic: 'sad',
+ 'pitiable: 'sad',
+ 'pitiful: 'sad',
+ 'plaintive: 'sad',
+ 'poignant: 'sad',
+ 'ponderous: 'sad',
+ 'poor: 'sad',
+ 'profound: 'sad',
+ 'regrettable: 'sad',
+ 'rough: 'sad',
+ 'sensitive: 'sad',
+ 'serious: 'sad',
+ 'severe: 'sad',
+ 'shabby: 'sad',
+ 'sluggish: 'sad',
+ 'somber: 'sad',
+ 'sombre: 'sad',
+ 'sore: 'sad',
+ 'sorrowful: 'sad',
+ 'sorry: 'sad',
+ 'taxing: 'sad',
+ 'tearful: 'sad',
+ 'tough: 'sad',
+ 'tragic: 'sad',
+ 'troubled: 'sad',
+ 'unbearable: 'sad',
+ 'unfortunate: 'sad',
+ 'unhappy: 'sad',
+ 'upset: 'sad',
+ 'upsetting: 'sad',
+ 'weighty: 'sad',
+ 'wistful: 'sad',
+ 'woebegone: 'sad',
+ 'woeful: 'sad',
+ 'wretched: 'sad',
+ loveless
+ amorous
+ romance
+ passion
+ agape
+ loving
+ romantic
+ amour
+ lovelorn
+ worship
+ billet-doux
+ eros
+ lovable
+ heart
+ amatory
+ intrigue
+ adore
+ amorist
+ fancy
+ adoration
+ lover
+ charity
+ lovely
+ lovesick
+ erotic
+ patriotism
+ affectionate
+ affection
+ woo
+ kiss
+ song
+ patriotic
+ sweet
+ dote
+ devotion
+ narcissism
+ paramour
+ inamorata
+ court
+ lovingly
+ cupid
+ idolize
+ infatuate
+ conquest
+ loveful
+ relove
+ smitten
+ caress
+ addiction
+ addictive
+ adoration
+ adore
+ adulation
+ affection
+ allegiance
+ alluring
+ appreciation
+ ardent
+ attached
+ attachment
+ besotted
+ care
+ caring
+ chemical
+ chemistry
+ cherish 
+ cherishing
+ closeness
+ courting
+ crave
+ craving
+ craze
+ crush
+ crushing
+ dear
+ delight
+ delightful
+ desire
+ desired
+ devoted
+ devotion
+ doting
+ electric
+ emotion
+ emotional 
+ enamoured
+ endearment
+ energetic
+ energy
+ enjoy
+ entangled
+ enthusiasm
+ enthusiastic
+ enticed
+ excitable
+ excited
+ fancy
+ fascination
+ fervor
+ fire
+ flame
+ fondness
+ frenzy
+ friend
+ glowing
+ hankering
+ heat
+ hunger
+ idolize
+ impulsive
+ inclination
+ infatuated
+ infatuation
+ intensity
+ intimacy
+ intimate
+ kryptonite
+ like
+ longing
+ loyalty
+ lust
+ mania
+ obsessed
+ obsession
+ partiality
+ partner
+ passion
+ passionate
+ pleasure
+ powerful
+ powerless
+ proclivity
+ rapture
+ relish
+ respect
+ sentimental
+ spark
+ striving
+ taken
+ tender 
+ tenderness
+ treasure
+ trusted
+ warmth
+ weakness
+ worship
+ yearning
+ 111111111111111
+ mad
+ anger
+ livid
+ irate
+ glare
+ snarl
+ quarrel
+ temper
+ furious
+ incense
+ glower
+ pissed
+ heated
+ sore
+ scowl
+ rile
+ cross
+ infuriate
+ upset
+ huff
+ madden
+ storm
+ enrage
+ choleric
+ steam
+ fume
+ flame
+ wrangle
+ retort
+ tirade
+ moody
+ ropable
+ gram
+ steaming
+ altercation
+ provoke
+ hot under the collar
+ wrathy
+ offend
+ annoy
+ growl
+ hot
+ hopping mad
+ see red
+ wroth
+ fit to be tied
+ pique
+ apoplectic
+ rampage
+ rise
+ snaky
+ fit
+ irascible
+ wrathful
+ ballistic
+ stuffy
+ argument
+ seethe
+ strife
+ bad-tempered
+ stomach
+ annoyed
+ quick-tempered
+ steamed
+ mob
+ het
+ red
+ scold
+ Black
+ go through the roof
+ rage
+ incandescent
+ outrage
+ flare
+ bicker
+ furiously
+ huffy
+ boil
+ teed
+ fight
+ maggoty
+ cheesed
+ hiss
+ irritable
+ rant
+ placate
+ irritate
+ waxy
+ snuffy
+ even-tempered
+ irritated
+ lowering
+ flounce
+ piss off
+ bitter
+ row
+ exasperate
+ incensed
+ yond
+ word
+ touchy
+ shirty
+ wrath
+ static
+ flip
+ ratty
+ rave
+ frost
+ inflame
+ Sharp
+ blow-up
+ splenetic
+ earful
+ sizzle
+ go spare
+ bristle
+ dark
+ harangue
+ up in arms
+ angrily
+ scream
+ acrimonious
+ mollify
+ berate
+ murderous
+ indignant
+ main
+ go ape
+ snap
+ brown
+ sorehead
+ stalk
+ soothe
+ bark
+ tetchy
+ bait
+ irritation
+ argue
+ foam
+ lecture
+ fiery
+ white-hot
+ hotly
+ blackly
+ tempered
+ crazy
+ spite
+ hullabaloo
+ wild-eyed
+ stroppy
+ get
+ aggrieved
+ sulky
+ jealous
+ burn
+ upsetting
+ ornery
+ conflict
+ snit
+ aggro
+ uptight
+11111111111111111111111
+ bulky
+ crooked
+ drab
+ gigantic
+ glittering
+ glow
+ glowing
+ hazy
+ shadowy
+ shimmer
+ shimmering
+ to sparkle
+ sparkling
+ absolutely
+ admiration
+ authoritative
+ authority
+ facts
+ factual
+ guaranteed
+ proven
+ saint
+ scientific
+ trustworthy
+ abuse
+ abusive
+ anxiety
+ anxious
+ banned
+ burning
+ despair
+ failure
+ freaking
+ horror
+ miserable
+ pussyfoot
+ sabotage
+ steal
+ threat
+ awe
+ jaw-dropping
+ mind-blowing
+ mesmerizing
+ spectacular
+ remarkable
+ enchantment
+ enchanting
+ astonishing
+ terrific
+ breath-taking
+ spellbinding
+ austerity
+ envy
+ envious
+ grief-stricken 
+ heartbroken
+ hostile
+ lovesick
+ resentful
+ shame
+ sobbing
+ tearful
+ teary-eyed
+ trouble
+ weepy
+ crap
+ icky
+ junk
+ lousy
+ nasty
+ obscene
+ outrageous
+ repellent
+ ridiculous
+ scuzzy
+ trash
+ annoying
+ bitter
+ flare 
+ frantic
+ furious
+ grumpy
+ hysterics
+ irritating
+ panic
+ rage
+ raging
+ tantrum
+ charming
+ craving
+ discovery
+ enthusiasm
+ enthuse
+ forgotten
+ inspiration
+ little
+ longing
+ lust
+ mystery
+ mysterious
+ passion
+ passionate
+
